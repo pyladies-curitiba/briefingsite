@@ -1,1 +1,2 @@
 IDEIAS INICIAIS
+1. Apresentar a rede em uma página inicial com fotos em HD.
