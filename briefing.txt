@@ -1,5 +1,5 @@
 IDEIAS INICIAIS
 1. Apresentar a rede em uma página inicial com fotos em HD.
 2. Página de galeria de imagens com fotos dos eventos e redirecionamento para um resumo do evento ocorrido.
-3. Grid com as colaboradoras da rede e as informações de cada uma.
+3. Grid com as colaboradoras do grupo e as informações de cada uma.
 4. Timeline de histórico do grupo (criação, eventos, workshops, integrantes, parceiros).
